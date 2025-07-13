@@ -58,7 +58,7 @@ API proxy: http://localhost:4943
 ## 📦 Built With
 
 - 🦀 Rust (Backend)
-- ⚛️ React (Frontend)
+- ⚛️ React+Vite (Frontend)
 - 🧠 DFINITY SDK (dfx)
 - 🔐 Internet Identity
 
